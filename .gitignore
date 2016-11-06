@@ -1,0 +1,13 @@
+*.o
+*.obj
+
+*.def
+*.depend
+*.layout
+
+*.tmp
+*.bak
+*.~*
+~*
+Thumbs.db
+Desktop.ini
